@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "krawczyk TY KURWO JEBANA!",
+    "subtitle": "To jest twoja strona domowa",
+    "logged": {
+      "message": "Jesteś zalogowany jako użytkownik \"{{username}}\"."
+    },
+    "like": "Jeśli lubisz JHipster, nie zapomnij dać nam gwiazdki na",
+    "github": "GitHubie"
+  }
+}

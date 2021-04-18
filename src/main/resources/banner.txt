@@ -1,0 +1,1 @@
+${AnsiColor.BRIGHT_BLUE}:: Vaticane 2137 🤓  :: Running Spring Boot ${spring-boot.version} ::
